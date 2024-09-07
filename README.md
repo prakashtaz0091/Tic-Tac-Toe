@@ -3,6 +3,13 @@
 
 This is a simple implementation of the classic Tic Tac Toe game built using Microsoft Excel and VBA (Visual Basic for Applications). The game allows two players to play on a 3x3 grid directly in Excel by double-clicking cells to mark Xs and Os. This project showcases how VBA macros can be used to create interactive applications within Excel.
 
+## Demo Video
+
+Watch the game in action:
+
+[![Tic Tac Toe Gameplay](https://i9.ytimg.com/vi_webp/GZAMDAwgLwk/mq2.webp?sqp=CJCW77YG-oaymwEmCMACELQB8quKqQMa8AEB-AGoB4AC0AWKAgwIABABGGIgYihiMA8=&rs=AOn4CLD4vEsjMAH4GR_pXTqPM2B2TMbeFQ)](https://youtu.be/GZAMDAwgLwk)
+
+
 ## Features
 
 - **Interactive Gameplay**: Play directly in Excel by double-clicking cells.
